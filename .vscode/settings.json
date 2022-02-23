@@ -1,0 +1,13 @@
+{
+    "[php]": {
+        "editor.tabSize": 2
+    },
+    "[hmtl]": {
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "files.insertFinalNewline": true,
+
+}
